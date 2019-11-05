@@ -1,5 +1,5 @@
 # Predict-Future-Sales-Kaggle-Competition
-This repository contains a working LSTM model for the Kaggle Competition to Predict Future Sales of a Russian Software firm.
+This repository contains a working LSTM model for the Kaggle Competition to Predict Future Sales of a Russian Software firm. The Python code has been created using Google Colaboratory, a version of the Jupyter notebook using the existing framework of Google Drive.
 
 From the Kaggle Competition description:
 "This challenge serves as final project for the "How to win a data science competition" Coursera course. 
